@@ -1,3 +1,3 @@
 <!--Banner Image-->
 
-![DeadLabs Examples Header](DeadLabs.jpg)
+![DeadLabs Examples Header](DeadLabs.png)
